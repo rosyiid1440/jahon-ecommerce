@@ -1,0 +1,15 @@
+.no-warna {
+	color: black;
+}
+
+.oren {
+	color: orange;
+}
+
+.no-warna:hover {
+	color: black;
+}
+
+.oren:hover {
+	color: orange;
+}
